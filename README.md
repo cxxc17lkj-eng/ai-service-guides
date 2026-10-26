@@ -12,7 +12,6 @@
 | 了解账号与订阅一起交付的选项 | GPT Plus / Pro 成品号 | 邮箱归属、账号控制权、订阅期限 |
 | 给已有 Claude 账号开通或续费 | Claude Pro、Max 5x / 20x代充 | 对应档位、使用周期与交付条件 |
 | 了解 Claude 账号或团队相关规格 | Claude Max 20x 成品号、Max 5x premium team 等 | 区分个人账号、成员席位与管理账号 |
-| 同时寻找其他 AI 工具 | Gemini、Cursor、Kiro、Perplexity 等分类 | [查看完整商品导航](./ai-tool-needs.md) |
 
 **[购买入口直达 → GPT / Claude 专区](https://www.16688.com.cn/shop/GGBONDAI)**  
 进入后选择商品和规格，即可查看当前价格、交付说明与售后范围。
@@ -31,7 +30,7 @@
 
 可以先看当前商品列表，再带着一个具体问题咨询，例如：“已有 GPT 账号，想续费一个月，Plus 和 Pro 对应哪些可选规格？”不必一开始就决定购买。
 
-[查看其他 AI 工具与当前价格 →](https://wzyp.cn/shop/xiaoen666817)
+[查看 GPT / Claude 当前价格 →](https://www.16688.com.cn/shop/GGBONDAI)
 
 <details>
 <summary>选购咨询与售后联系（展开）</summary>
