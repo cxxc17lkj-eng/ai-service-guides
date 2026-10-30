@@ -32,16 +32,29 @@
 
 [查看 GPT / Claude 当前价格 →](https://www.16688.com.cn/shop/GGBONDAI)
 
-<details>
+<!-- restored-topics:start -->
+## 商品专题与实用指南
+
+- [Claude 成品号与 Pro / Max 代充](./claude.md)
+- [GPT Plus / Pro 代充与成品号](./gpt.md)
+- [商品规格与交付核对](./service-checklist.md)
+- [按需求查找商品](./ai-tool-needs.md)
+- [选购 FAQ](./faq.md)
+
+[打开网页版导航](https://cxxc17lkj-eng.github.io/ai-service-guides/)
+<!-- restored-topics:end -->
+
+<details id="contact">
 <summary>选购咨询与售后联系（展开）</summary>
 
 可在购买页面点击「联系TA」，或通过 QQ 交流群咨询。群号：**1104198281**。
 
 <p><a href="./qq-group-1104198281.png"><img src="./qq-group-1104198281.png" alt="QQ 交流群二维码" width="180" height="180"></a></p>
 
-手机可点击原图后保存，在 QQ 中识别。咨询时说明产品、代充或成品号、使用时长即可；账号与订单资料请通过私下售后渠道沟通。
+手机可点击原图后保存，在 QQ 中识别。咨询时说明产品、交付方式和使用时长；账号与订单信息请通过私下售后渠道沟通。
 
 </details>
 
+
 ---
-本页由购买入口的服务提供方维护，非相关产品官方页面。目录核对于 2026-10-26；价格、库存、交付与售后以所选商品详情及订单确认内容为准。
+本页由购买入口的服务提供方维护，非相关产品官方页面。更新于 2026-10-30；价格、库存、交付与售后以所选商品详情及订单确认内容为准。
